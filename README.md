@@ -1,2 +1,2 @@
-# Beep-bgood
- Beep scale up for B-GOOD project
+# Beep-documentation
+Beep documentation and design choices for scalable infrastucture
