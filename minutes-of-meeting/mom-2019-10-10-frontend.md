@@ -9,7 +9,17 @@
 
 * Home screen: Apiaries
 * Hives within apiary draggable to set position integer
-* Inspection overview: scrolling and for mobile: more visual (Wind guru, weather AIX)
+* Apiary view filterable, so menu item hives can be removed
+  * Search function
+* Log book overview: scrolling and for mobile: more visual (Wind guru, weather AIX)
+  * Apiary/Hive selector on top
+  * Focus on one hive overview
+  * Use timeline
+    * Add time selection for bee season
+    * Add hive configuration as visuals on timeline
+  * Show measurement data
+  * Show inspection data per category on timeline
+  * Show weather as context for measurement and inspection data 
 
 ### Cooperation
 
